@@ -10,3 +10,7 @@
 ###### I will protect these precious people with my life.
 ###### Being able to protect, as my master’s last will says…. is a privilege.
 ![SEH](https://static.wikia.nocookie.net/regressors-tale-of-cultivation/images/3/34/SeoEun.jpg/revision/latest?cb=20240529053438)
+
+``` javascript
+var Heart = "Without";
+```
